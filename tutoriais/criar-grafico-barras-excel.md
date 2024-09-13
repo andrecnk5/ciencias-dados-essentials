@@ -2,14 +2,11 @@
 
 O gráfico de barras é similar ao de colunas, mas com orientação horizontal. É especialmente útil quando você tem muitas categorias ou quando os nomes das categorias são longos, pois oferece mais espaço para os rótulos.
 
-
 Aqui está uma explicação detalhada de como criar um gráfico de barras no Excel. Este tipo de gráfico é similar ao gráfico de colunas, mas com orientação horizontal, o que o torna particularmente útil quando você tem muitas categorias ou nomes de categorias longos.
 
 A principal diferença no processo de criação é a seleção do tipo de gráfico na etapa 3, onde você escolhe "Inserir Gráfico de Barras" em vez de "Inserir Gráfico de Colunas".
 
 Uma dica adicional específica para gráficos de barras é a ordenação das barras. Geralmente, é mais fácil interpretar um gráfico de barras quando as barras estão ordenadas da maior para a menor (a menos que a ordem alfabética ou cronológica seja importante para a análise).
-
-
 
 # Como criar um gráfico de barras no Excel
 
